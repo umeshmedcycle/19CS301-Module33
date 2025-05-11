@@ -63,7 +63,7 @@ else:
     print("Not matched!")
 ```
 ### OUTPUT
- ![image](https://github.com/user-attachments/assets/b473b268-4127-4409-9985-e43d47b02847)
+ ![image](https://github.com/user-attachments/assets/0b18f0d0-287b-4520-9240-3f197c8c7893)
 
 ### RESULT
 Thus the python program for pattern matching using regular expression was  implemented and executed successfully.
